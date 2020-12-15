@@ -5,7 +5,7 @@
 ## Hernández Machuca Sergio Francisco
 ### Académico
 
-## Ramírez Torres Martha Diana
 ## Fomperoza Salgado Isaí 
 ## Hernández Hernández Juan Manuel
+## Ramírez Torres Martha Diana
 ### Integrantes del equipo
