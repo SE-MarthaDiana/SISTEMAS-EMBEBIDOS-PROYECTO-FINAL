@@ -3,7 +3,6 @@
 ### Tópicos avanzados de INEL II
 
 ### Nombre del proyecto:
-
 # Maceta inteligente
 ### Objetivo:
 Monitorización, automatización y control de las variables mediante un dispositivo.
@@ -17,4 +16,4 @@ La maceta inteligente es un proyecto inspirado para aquellas personas a quienes 
 ## Fomperoza Salgado Isaí 
 ## Hernández Hernández Juan Manuel
 ## Ramírez Torres Martha Diana
-### Integrantes del equipo
+### Autores
