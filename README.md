@@ -2,9 +2,9 @@
 # Sistemas Embebidos 
 ### Tópicos avanzados de INEL II
 
-# Nombre del proyecto:
+### Nombre del proyecto:
 
-## Maceta inteligente
+# Maceta inteligente
 ### Objetivo:
 Monitorización, automatización y control de las variables mediante un dispositivo.
 
